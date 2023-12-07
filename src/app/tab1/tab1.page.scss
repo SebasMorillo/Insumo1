@@ -1,0 +1,27 @@
+@media screen and (max-width: 400px){
+
+    .imag{
+      content: url("https://historia.nationalgeographic.com.es/medio/2019/12/12/la-torre-eiffel-en-la-actualidad_4971c2ff_800x533.jpg");
+position: relative;
+width: 50%;
+height: 30%;
+
+.card{
+  height: 80%;
+}
+
+    }
+    }
+    
+    @media screen and (min-width: 401px){
+    .imag {
+      content: url("https://parisando.b-cdn.net/wp-content/uploads/sites/11/2022/02/portada-arco.jpg") ;
+      position:relative;
+      width: 50%;
+height: 30%;
+
+    }
+  
+    .card{
+      height: 80%;
+    }}

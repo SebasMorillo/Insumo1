@@ -1,0 +1,41 @@
+@media screen and (max-width: 500px){
+
+    .imag{
+      display: none;
+    }
+
+.cont{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+    .txt{
+      font-family: 'Whisper', cursive;
+      font-size: 5rem;
+    }
+    }
+    
+    @media screen and (min-width: 501px){
+    .imag{
+
+
+      width: 50%;
+      height: 50%;
+    }
+
+    .cont{
+      text-align: center;
+      flex-direction: column;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .txt{
+      font-size: 7rem;
+      font-family: 'Whisper', cursive;
+    }
+  }

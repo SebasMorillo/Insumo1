@@ -1,0 +1,7 @@
+{
+  "name": "EjerciciosResponsive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
